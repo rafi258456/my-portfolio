@@ -71,6 +71,10 @@ nav a{
     max-width: 500px;
 }
 /* main styles */
+main{
+    max-width: 1140px;
+    margin: 0px auto;
+}
 
 /* about styles */
 .about{
@@ -91,3 +95,12 @@ nav a{
     font-size: 18px;
     
 }
+.info{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+
+
+
