@@ -93,6 +93,7 @@ main{
     text-align: center;
     color: #757575;
     font-size: 18px;
+
     
 }
 .info{
@@ -130,6 +131,27 @@ main{
     text-align: center;
     margin-top: 50px;
 }
+ footer{
+    display: flex;
+    background-color: #fff8f3;
+    padding-left: 130px;
+    padding-right: 130px;
+    justify-content: space-between;
+    margin-top: 100px;
+    padding-top: 200px;
+ }
+ .img-so{
+    width: 20px;
+ }
+ .sedes-wd{
+    max-width: 700px;
+ }
+ .footer-colum{
+    width: 50%;
+ }
+ .Contact-info input,textarea{
+    display: block;
+ }
 
 
 
