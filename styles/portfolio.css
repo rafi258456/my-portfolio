@@ -149,10 +149,21 @@ main{
  .footer-colum{
     width: 50%;
  }
- .Contact-info input,textarea{
+ .Contact-info input, textarea{
     display: block;
+    margin-bottom: 30px;
+    padding: 18px 35px;
+    color: #757575;
+    border: 0;
+    width: 100%;
+    background: #fff;
  }
-
+ .place{
+     height: 150px;
+ }
+ .social-link{
+margin-right: 20px;
+ }
 
 
 
