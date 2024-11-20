@@ -104,10 +104,31 @@ main{
     padding: 30px 150px;
 }
 .img{
-    width: 40px;
+    width: 50px;
+   
 }
 .skills{
     display: flex;
+    padding: 30px;
+    /* height: 30px; */
+}
+
+.resume-colum-title{
+    font-size: 30px;
+    font-weight: 700px;
+    color: #474747;
+}
+.resum-conteiner{
+    display: flex;
+    gap: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.resume-item-description{
+    color: #757575;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
 }
 
 
